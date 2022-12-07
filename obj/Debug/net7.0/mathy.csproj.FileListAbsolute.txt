@@ -1,0 +1,15 @@
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\bin\Debug\net7.0\mathy.exe
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\bin\Debug\net7.0\mathy.deps.json
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\bin\Debug\net7.0\mathy.runtimeconfig.json
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\bin\Debug\net7.0\mathy.dll
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\bin\Debug\net7.0\mathy.pdb
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\obj\Debug\net7.0\mathy.csproj.AssemblyReference.cache
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\obj\Debug\net7.0\mathy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\obj\Debug\net7.0\mathy.AssemblyInfoInputs.cache
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\obj\Debug\net7.0\mathy.AssemblyInfo.cs
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\obj\Debug\net7.0\mathy.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\obj\Debug\net7.0\mathy.dll
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\obj\Debug\net7.0\refint\mathy.dll
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\obj\Debug\net7.0\mathy.pdb
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\obj\Debug\net7.0\mathy.genruntimeconfig.cache
+C:\Users\bryan\Dropbox\PC\Desktop\Code\cSharp\mathy\obj\Debug\net7.0\ref\mathy.dll
